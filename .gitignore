@@ -2,9 +2,12 @@
 #
 .DS_Store
 
+<<<<<<< HEAD
 #secrets
 .env
 
+=======
+>>>>>>> 2e409ca996044678eb549763335229b98dba1dd8
 # Xcode
 #
 build/
